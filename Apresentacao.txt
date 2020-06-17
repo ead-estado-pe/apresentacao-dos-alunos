@@ -1,0 +1,13 @@
+++Daniel Alves Barbosa:
+-Área de interesse:
+--PHP, Banco de dados, Desenvolvimento Web, Framework Symfony 5.0
+-Principais projetos:
+--https://github.com/danielweb09/zipasite
+---zipa.site
+--Desnevolvendo blog:
+---web09.com.br
+-Outros Interesses:
+--Hospedagem de Sites, Linux, Windows, Netbeans, MVC, Sistemas Operacionais
+-Contato:
+--daniel.alvesb@gmail.com
+++
