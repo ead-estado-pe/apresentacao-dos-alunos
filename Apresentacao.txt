@@ -15,4 +15,21 @@
 Teste
 
 ===============================================
-Daniel
+Daniel Verissimo da Silva
+
+ÁREA DE INTERESSE:
+Desenvolvimento WEB (PHP, MYSQL, HTML, CSS, JAVA SCRIPT)
+
+PROJETOS:
+Ainda não desenvolvi nenhum projeto relevante, por completo.
+
+HABILIDADES:
+Noções de Java pra web (J2ee)
+Noções de banco de dados (SQL=> DQL, DML, DDL)
+
+FORMAÇÕES:
+ Técnico em informática -incompleto (3 período de 4).
+ Instituto Federal de Pernambuco(IFPE) -CAMPUS Garanhuns.
+
+ Técnico em Desenvolvimento de Sistemas - em andamento (modulo2).
+ Escola Técnica Estadual(ETE) -POLO Garanhuns.
